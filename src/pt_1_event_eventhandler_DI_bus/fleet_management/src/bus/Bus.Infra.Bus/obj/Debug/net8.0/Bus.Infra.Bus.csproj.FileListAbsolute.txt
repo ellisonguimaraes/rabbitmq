@@ -1,0 +1,15 @@
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\bin\Debug\net8.0\Bus.Infra.Bus.deps.json
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\bin\Debug\net8.0\Bus.Infra.Bus.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\bin\Debug\net8.0\Bus.Infra.Bus.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\bin\Debug\net8.0\Bus.Domain.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\bin\Debug\net8.0\Bus.Domain.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.csproj.AssemblyReference.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.AssemblyInfoInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.AssemblyInfo.cs
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.csproj.CopyComplete
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\refint\Bus.Infra.Bus.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\Bus.Infra.Bus.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.Bus\obj\Debug\net8.0\ref\Bus.Infra.Bus.dll

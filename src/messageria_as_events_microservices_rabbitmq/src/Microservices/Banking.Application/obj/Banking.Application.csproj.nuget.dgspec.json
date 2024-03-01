@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Application\\Banking.Application.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Application\\Banking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Application\\Banking.Application.csproj",
+        "projectName": "Banking.Application",
+        "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Application\\Banking.Application.csproj",
+        "packagesPath": "C:\\Users\\ellis\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\Banking.Infra.Data.csproj": {
+                "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\Banking.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj",
+        "projectName": "Banking.Domain",
+        "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\ellis\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\MSRabbitMQ.Domain.Core.csproj": {
+                "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\MSRabbitMQ.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\Banking.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\Banking.Infra.Data.csproj",
+        "projectName": "Banking.Infra.Data",
+        "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\Banking.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\ellis\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj": {
+                "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\MSRabbitMQ.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\MSRabbitMQ.Domain.Core.csproj",
+        "projectName": "MSRabbitMQ.Domain.Core",
+        "projectPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\MSRabbitMQ.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\ellis\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\bin\Debug\net8.0\Ocurrences.Domain.Core.deps.json
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\bin\Debug\net8.0\Ocurrences.Domain.Core.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\bin\Debug\net8.0\Ocurrences.Domain.Core.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.AssemblyInfoInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.AssemblyInfo.cs
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.csproj.CoreCompileInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\refint\Ocurrences.Domain.Core.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\Ocurrences.Domain.Core.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Domain.Core\obj\Debug\net8.0\ref\Ocurrences.Domain.Core.dll

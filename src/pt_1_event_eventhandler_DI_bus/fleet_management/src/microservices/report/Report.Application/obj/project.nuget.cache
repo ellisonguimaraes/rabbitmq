@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "73EiM6HMpM5s7+f2kNoGOiLxWCYq5BKNF3Yt/qkRd2GfyER9USCrdG6pNhNi7uTAKCtxRDDoR/axDsbB2gdLDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ellis\\source\\repos\\rabbit_mq\\fleet_management\\src\\microservices\\report\\Report.Application\\Report.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

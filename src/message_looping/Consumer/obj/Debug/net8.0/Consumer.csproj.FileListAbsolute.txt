@@ -1,0 +1,17 @@
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/Consumer
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/Consumer.deps.json
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/Consumer.runtimeconfig.json
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/Consumer.dll
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/Consumer.pdb
+/home/ellison/Documents/dead_letter/Consumer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.csproj.AssemblyReference.cache
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.AssemblyInfoInputs.cache
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.AssemblyInfo.cs
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.csproj.CoreCompileInputs.cache
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.csproj.Up2Date
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.dll
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/refint/Consumer.dll
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.pdb
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/Consumer.genruntimeconfig.cache
+/home/ellison/Documents/dead_letter/Consumer/obj/Debug/net8.0/ref/Consumer.dll

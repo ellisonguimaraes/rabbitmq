@@ -1,0 +1,15 @@
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\bin\Debug\net8.0\Ocurrences.Infra.Data.deps.json
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\bin\Debug\net8.0\Ocurrences.Infra.Data.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\bin\Debug\net8.0\Ocurrences.Infra.Data.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\bin\Debug\net8.0\Ocurrences.Domain.Core.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\bin\Debug\net8.0\Ocurrences.Domain.Core.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.csproj.AssemblyReference.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.AssemblyInfoInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.AssemblyInfo.cs
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.csproj.CopyComplete
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\refint\Ocurrences.Infra.Data.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\Ocurrences.Infra.Data.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\ocurrences\Ocurrences.Infra.Data\obj\Debug\net8.0\ref\Ocurrences.Infra.Data.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RL04HWHFazXBJGTkGuLTyfR5KRackbkXdv+IJgfiSbrC1EInnuCGThH1ljJTZdsu1M8AdhmM3oXnIpzqFHhqlw==",
+  "success": true,
+  "projectFilePath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/report/Report.Domain/Report.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ellison/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/ellison/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/ellison/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Infra.IoC.deps.json
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Infra.IoC.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Infra.IoC.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Domain.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Infra.Bus.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Infra.Bus.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\bin\Debug\net8.0\Bus.Domain.pdb
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.csproj.AssemblyReference.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.AssemblyInfoInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.AssemblyInfo.cs
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.csproj.CopyComplete
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\refint\Bus.Infra.IoC.dll
+c:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\Bus.Infra.IoC.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\bus\Bus.Infra.IoC\obj\Debug\net8.0\ref\Bus.Infra.IoC.dll

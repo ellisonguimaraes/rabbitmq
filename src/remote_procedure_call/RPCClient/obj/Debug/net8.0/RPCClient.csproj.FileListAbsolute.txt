@@ -1,0 +1,17 @@
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RPCClient
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RPCClient.deps.json
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RPCClient.runtimeconfig.json
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RPCClient.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RPCClient.pdb
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.csproj.AssemblyReference.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.AssemblyInfoInputs.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.AssemblyInfo.cs
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.csproj.CoreCompileInputs.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.csproj.Up2Date
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/refint/RPCClient.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.pdb
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/RPCClient.genruntimeconfig.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCClient/obj/Debug/net8.0/ref/RPCClient.dll

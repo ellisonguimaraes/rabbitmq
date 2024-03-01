@@ -1,0 +1,15 @@
+C:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\bin\Debug\net8.0\Transfer.Domain.deps.json
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\bin\Debug\net8.0\Transfer.Domain.dll
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\bin\Debug\net8.0\Transfer.Domain.pdb
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\bin\Debug\net8.0\MSRabbitMQ.Domain.Core.dll
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\bin\Debug\net8.0\MSRabbitMQ.Domain.Core.pdb
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.csproj.AssemblyReference.cache
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.AssemblyInfoInputs.cache
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.AssemblyInfo.cs
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.csproj.CopyComplete
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.dll
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\refint\Transfer.Domain.dll
+c:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\Transfer.Domain.pdb
+C:\Users\ellis\source\repos\rabbit_mq\microservices_rabbitmq\src\Microservices\Transfer.Domain\obj\Debug\net8.0\ref\Transfer.Domain.dll

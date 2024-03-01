@@ -1,0 +1,493 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.API/Ocurrences.API.csproj": {}
+  },
+  "projects": {
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj",
+        "projectName": "Bus.Domain",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj",
+        "projectName": "Bus.Infra.Bus",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/Bus.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/Bus.Infra.IoC.csproj",
+        "projectName": "Bus.Infra.IoC",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/Bus.Infra.IoC.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.API/Ocurrences.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.API/Ocurrences.API.csproj",
+        "projectName": "Ocurrences.API",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.API/Ocurrences.API.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/Bus.Infra.IoC.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.IoC/Bus.Infra.IoC.csproj"
+              },
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/Ocurrences.Domain.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/Ocurrences.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/Ocurrences.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/Ocurrences.Domain.Core.csproj",
+        "projectName": "Ocurrences.Domain.Core",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/Ocurrences.Domain.Core.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/Ocurrences.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/Ocurrences.Domain.csproj",
+        "projectName": "Ocurrences.Domain",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/Ocurrences.Domain.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Domain/Bus.Domain.csproj"
+              },
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/Ocurrences.Infra.Data.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/Ocurrences.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/Ocurrences.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/Ocurrences.Infra.Data.csproj",
+        "projectName": "Ocurrences.Infra.Data",
+        "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/Ocurrences.Infra.Data.csproj",
+        "packagesPath": "/home/ellison/.nuget/packages/",
+        "outputPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ellison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/Ocurrences.Domain.Core.csproj": {
+                "projectPath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/microservices/ocurrences/Ocurrences.Domain.Core/Ocurrences.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ellison/.dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

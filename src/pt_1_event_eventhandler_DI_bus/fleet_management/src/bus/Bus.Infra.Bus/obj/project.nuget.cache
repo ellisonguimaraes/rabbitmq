@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBeJoQFz/Sg6D0lSZwJUkL0sFaB2ZtW2Z1Y/KZHAwGmi/gbuxLYI3/SBtMm4nb2Y7//GuOzX2Vx7GNnFxItN1A==",
+  "success": true,
+  "projectFilePath": "/home/ellison/Downloads/projects-20240225T042731Z-001/projects/pt_1_event_eventhandler_DI_bus/fleet_management/src/bus/Bus.Infra.Bus/Bus.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "/home/ellison/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/ellison/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/ellison/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/ellison/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/ellison/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ellison/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ellison/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

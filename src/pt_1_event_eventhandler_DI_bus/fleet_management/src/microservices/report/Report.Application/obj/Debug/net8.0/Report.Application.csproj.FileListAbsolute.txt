@@ -1,0 +1,17 @@
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Report.Application.deps.json
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Report.Application.dll
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Report.Application.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Bus.Domain.dll
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Report.Domain.dll
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Report.Domain.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\bin\Debug\net8.0\Bus.Domain.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.csproj.AssemblyReference.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.AssemblyInfo.cs
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.csproj.CopyComplete
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.dll
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\refint\Report.Application.dll
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\Report.Application.pdb
+C:\Users\ellis\source\repos\rabbit_mq\fleet_management\src\microservices\report\Report.Application\obj\Debug\net8.0\ref\Report.Application.dll

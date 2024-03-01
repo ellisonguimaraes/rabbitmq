@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WG79pTVpicv0x1f5u4Bv8841jgjhKGsa0MtlGw6S+UxyPeOoLhrq9Qw3YgGhKyk+YBqrUS4b0lt42HDlqpFWjw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\MSRabbitMQ.Infra.Bus\\MSRabbitMQ.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

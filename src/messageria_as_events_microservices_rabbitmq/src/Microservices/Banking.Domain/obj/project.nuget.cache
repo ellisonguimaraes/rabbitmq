@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DcDM2+W7EuONAdCUvFLveiIdAX6pt3g4YTXO634LRGbwZXMuQUCF/caFo8U/jMt4OBdbp7DjcIWumnkEKKfTg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ellis\\source\\repos\\rabbit_mq\\projects\\microservices_rabbitmq\\src\\Microservices\\Banking.Domain\\Banking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

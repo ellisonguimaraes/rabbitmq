@@ -1,0 +1,17 @@
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RPCServer
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RPCServer.deps.json
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RPCServer.runtimeconfig.json
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RPCServer.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RPCServer.pdb
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.csproj.AssemblyReference.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.AssemblyInfoInputs.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.AssemblyInfo.cs
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.csproj.CoreCompileInputs.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.csproj.Up2Date
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/refint/RPCServer.dll
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.pdb
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/RPCServer.genruntimeconfig.cache
+/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/obj/Debug/net8.0/ref/RPCServer.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEswwIGKcNXuI+xEYCcyqJngtqMLQnVrcun6Nc1SBRC15nAN47TNBwuBZYGPqpSqIId9WAdaWUlemt0c8reQJw==",
+  "success": true,
+  "projectFilePath": "/home/ellison/Markdown/RabbitMQ/src/remote_procedure_call/RPCServer/RPCServer.csproj",
+  "expectedPackageFiles": [
+    "/home/ellison/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/ellison/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/ellison/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

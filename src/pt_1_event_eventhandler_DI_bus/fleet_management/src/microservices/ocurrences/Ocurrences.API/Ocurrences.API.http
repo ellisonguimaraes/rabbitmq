@@ -1,0 +1,6 @@
+@Ocurrences.API_HostAddress = http://localhost:5242
+
+GET {{Ocurrences.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
